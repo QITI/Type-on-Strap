@@ -1,22 +1,22 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
 url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Quantum Information with Trapped Ions # site's title
+description: "Welcome to the Laboratory for Quantum Information with Trapped Ions (QITI) of Prof. K. Rajibul Islam! We are a predominantly experimental research group at the Institute for Quantum Computing and the Department of Physics and Astronomy at University of Waterloo, Ontario, Canada." # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
-  avatar: assets/img/triangle.svg
+  title: Quantum Information with Trapped Ions # blog's title
+  avatar: assets/img/cropped-UW_IQC_RGB_logo-1.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+  header_text_feature_image: assets/img/pexels/cropped-banner.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
